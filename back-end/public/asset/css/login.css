@@ -52,8 +52,10 @@ form{
 input {
     background-color: whitesmoke;
 }
+
 .input-field{
     position: relative;
+    margin-top: 6px;
 }
 form .input-field:first-child{
     margin-bottom: 1.5rem;
@@ -108,7 +110,7 @@ form input[type="submit"]{
 
 form input[type="submit"]:hover {
     letter-spacing: 0.5px;
-    background: linear-gradient(to right, #4776E6, #8e54e9);
+    background: linear-gradient(to right, #4776E6, #8e54f5);
 }  
 
 .footer {
@@ -142,7 +144,7 @@ form input[type="submit"]:hover {
     color: bisque;
 }
 
-.footer .social-field.twitter{
+.footer .social-field.instagram{
     background: linear-gradient(to right, #56a7f2, #468aca);
 }
 
